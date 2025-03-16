@@ -27,5 +27,8 @@ The analysis showed that most players have **low playtime (under 10 hours)**, wi
 - Exploring additional factors such as **subscription status** or in-game actions.  
 - Refining the model to improve predictive performance.
 
+## **Accessing the HTML Report**  
+You can access the **HTML version** of the report by **downloading** it first before opening it in your browser.
+
 ## **Contributors**  
 This project was completed as part of **DSCI 100 (Data Science at UBC)**. 
